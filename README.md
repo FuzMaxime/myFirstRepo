@@ -1,13 +1,10 @@
-# MyFirstRepo
+# Club de pétanque 
 
-
-Welcome on my first repo 
+Bienvenue au club de pétanque  ![image](http://petitemimine.p.e.pic.centerblog.net/c5ca5b8a.gif)
 
 IMAGE
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/112947387/188633664-1993e3a3-d0a1-40b8-bc45-7ad25b6e1494.png)
-
-![image](https://user-images.githubusercontent.com/112947387/188638534-97c41ab6-c123-4b54-a805-4074e55a4c95.gif)
+![image](https://c.tenor.com/kOnrl7VeJpAAAAAC/merguez.gif)
 
 
 VIDEO
